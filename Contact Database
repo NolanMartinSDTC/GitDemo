@@ -3,3 +3,5 @@ Contact Database
 return data
 
 print data to screen
+
+email user info
